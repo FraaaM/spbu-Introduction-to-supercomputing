@@ -1,2 +1,2 @@
 # spbu-Introduction-to-supercomputing
-OpenMMPI
+work with OpenMP and MPI 
